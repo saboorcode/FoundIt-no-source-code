@@ -1,10 +1,8 @@
-# FoundIt (No Source Code)
+# FoundIt (No Source Code) - https://devpost.com/software/foundit-xj30l1
 
 <img width="806" height="537" alt="image" src="https://github.com/user-attachments/assets/5b421e8f-0e45-41b2-93a3-98cbe34a88bd" />
 <img width="806" height="564" alt="image" src="https://github.com/user-attachments/assets/fd1165c6-2ea1-490a-90b4-54f4856987fb" />
 <img width="806" height="537" alt="image" src="https://github.com/user-attachments/assets/02e4b4de-7572-4b12-b742-95b4ca52c89b" />
-<img width="684" height="358" alt="image" src="https://github.com/user-attachments/assets/fcdc9aed-1449-4772-a6a8-d022ee80bb3d" />
-
 
 *SacHacks V Hackathon Project*
 
@@ -45,10 +43,49 @@ FoundIt provides a one-stop place for posting and recovering lost or found items
 
 * **Frontend:** Svelte, Tailwind CSS
 * **Backend:** Express.js, Supabase
-* Rapid learning of 2 new techn
+* Rapid learning of 2 new technologies during the hackathon
 
-javascript
-node.js
-supabase
-svelte
-tailwind
+---
+
+## Challenges
+
+* Learning multiple new technologies under time constraints
+* Supabase server downtime affecting database testing
+* Adjusting the scope to match hackathon limitations
+
+---
+
+## Accomplishments
+
+* Each team member learned at least one new technology
+* Thorough planning process as a reliable source of truth
+* Working UI prototype with functional routes (local only)
+* UI designed for easy future integration with backend
+
+---
+
+## Lessons Learned
+
+* The project scope was still ambitious for the hackathon timeframe
+* Experimenting with new technologies was a valuable learning experience
+* Learned to plan for simpler solutions while allowing room for future expansion
+
+---
+
+## Next Steps
+
+* Connect the database fully (hook up POST endpoints)
+* Implement location-based services
+* Admin portal for colleges and student-only portals
+* Add search capabilities
+
+---
+
+## Built With
+
+* [Express.js](https://expressjs.com/)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Node.js](https://nodejs.org/)
+* [Supabase](https://supabase.com/)
+* [Svelte](https://svelte.dev/)
+* [Tailwind CSS](https://tailwindcss.com/)
