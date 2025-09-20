@@ -1,9 +1,3 @@
-# FoundIt (No Source Code) - https://devpost.com/software/foundit-xj30l1
-
-<img width="806" height="537" alt="image" src="https://github.com/user-attachments/assets/5b421e8f-0e45-41b2-93a3-98cbe34a88bd" />
-<img width="806" height="564" alt="image" src="https://github.com/user-attachments/assets/fd1165c6-2ea1-490a-90b4-54f4856987fb" />
-<img width="806" height="537" alt="image" src="https://github.com/user-attachments/assets/02e4b4de-7572-4b12-b742-95b4ca52c89b" />
-
 *SacHacks V Hackathon Project*
 
 > **Note:** Source code was lost. Project details are included.
