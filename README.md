@@ -1,3 +1,6 @@
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/A6EMimhnmq0/0.jpg)](https://www.youtube.com/watch?v=A6EMimhnmq0)
+
+
 *SacHacks V Hackathon Project*
 
 > **Note:** Source code was lost. Project details are included.
